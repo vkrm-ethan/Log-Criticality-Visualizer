@@ -1,0 +1,2 @@
+# Log-Criticality-Visualizer
+Log Criticality Visualizer (LCV) • Machine Learning  • Python • SciPy, MatPlotLib, Pandas libraries  To visualize the criticality of the system that behaves adversely across different timelines by segregating the logs and by implementing machine learning algorithms to identify the patterns and behaviours of the system by which future enhancements or integral solutions can be proposed for better performance of the system.
